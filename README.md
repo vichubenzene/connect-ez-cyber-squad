@@ -2,7 +2,7 @@ In Today's Busy World its hard to search for a small produts like pencil in Onli
 
 This Application Acts as a middle man for this issue..
 
-<h3>Here we can browse the locally available products for the best price and quality.. and go to the right seller which saves time of searching every shop physically
+<h3>Here we can browse the locally available products for the best price and quality.. and go to the right seller which save's time of searching every shop physically
 </h3>
 # app-devolopment-
 
